@@ -1,0 +1,73 @@
+INPUT:
+6
+1 2 h 2
+2 0 v 2
+4 0 h 2
+3 1 v 3
+4 1 v 2
+4 3 h 2
+
+D D 2
+E L 1
+E U 1
+A R 3
+Max number of nodes expanded: 3491 
+Depth of search tree: 5 
+Running time: 22956 
+ZERO H
+
+D D 2
+E L 1
+E U 1
+A R 3
+Max number of nodes expanded: 3491 
+Depth of search tree: 5 
+Running time: 23234 
+BLOCKING H
+
+D D 2
+E L 1
+E U 1
+A R 3
+Max number of nodes expanded: 3491 
+Depth of search tree: 5 
+Running time: 23255 
+ADVANCE H
+
+INPUT:
+6
+1 2 h 2
+2 0 v 2
+4 1 v 2
+4 3 h 2
+
+C U 1
+A R 3
+Max number of nodes expanded: 81 
+Depth of search tree: 3 
+Running time: 32 
+ZERO H
+
+C U 1
+A R 3
+Max number of nodes expanded: 81 
+Depth of search tree: 3 
+Running time: 31 
+BLOCKING H
+
+C U 1
+A R 3
+Max number of nodes expanded: 81 
+Depth of search tree: 3 
+Running time: 31 
+ADVANCE H
+
+INPUT:
+6
+1 2 h 2
+2 0 v 2
+4 0 h 2
+3 1 v 3
+4 1 v 2
+4 3 h 2
+1 5 h 4
