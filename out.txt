@@ -1,8 +1,8 @@
-BLOCKING H
+ADVANCE H
 Cost: 3 
 H L 2
 G D 2
 A R 1
-Max number of nodes expanded: 27 
+Max number of nodes expanded: 18 
 Depth of search tree: 4 
 Running time: 0 
